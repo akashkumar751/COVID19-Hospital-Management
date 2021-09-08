@@ -1,0 +1,2 @@
+# COVID19-Hospital-Management
+Covid-19 Hospital, Patient Management, Beds Management, Python Django Project with Source Code . Covid-19 Hospital patient management , system will full and advanced features. Hospital Management System is a web application for the hospital which manages doctors and patients. In this project, we use Python Django  and SQLite database. A responsive web-app with aesthetic and accessible UI for managing COVID patients of a certain hospital built using Django and Bootstrap framework
